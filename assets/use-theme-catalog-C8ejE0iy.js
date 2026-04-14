@@ -1,0 +1,1 @@
+import{c as t,r,aX as o}from"./index-DmJkfDfn.js";const c=[["path",{d:"m21 21-4.34-4.34",key:"14j7rj"}],["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}]],a=t("search",c);function n(){const e=r.useContext(o);if(!e)throw new Error("useThemeCatalog must be used inside ThemeProvider");return e}export{a as S,n as u};

@@ -7,43 +7,27 @@
         
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>
-            IXL | Math, Language Arts, Science, Social Studies, and Spanish
-        </title>
+        <title>Northstar Tutoring | Personalized Academic Support</title>
         <meta
             name="description"
-            content="IXL is the world's most popular subscription-based learning site for K-12. Used by over 18 million students, IXL provides personalized learning in more than 17,000 topics, covering math, language arts, science, social studies, and Spanish. Interactive questions, awards, and certificates keep kids motivated as they master skills."
+            content="Northstar Tutoring helps middle school, high school, and college-prep students build confidence in math, science, writing, and study skills through personalized one-on-one support."
+        />
+        <meta
+            name="keywords"
+            content="northstar tutoring, one-on-one tutoring, academic support, math tutoring, science tutoring, writing tutoring, study skills, algebra, calculus, geometry, trigonometry, equation, derivative, integral, polynomial, quadratic, logarithm, factorial, matrix, vector, probability, statistics, pythagorean, theorem, hypotenuse, sine, cosine, tangent, biology, chemistry, physics, hypothesis, experiment, molecule, atom, cell, organism, ecosystem, photosynthesis, mitosis, gravity, velocity, acceleration, thermodynamics, essay, thesis, paragraph, grammar, syntax, metaphor, simile, alliteration, protagonist, antagonist, narrative, exposition, rhetoric, persuasive, symbolism, foreshadowing, irony"
         />
         <meta
             property="og:title"
-            content="IXL | Math, Language Arts, Science, Social Studies, and Spanish"
+            content="Northstar Tutoring | Personalized Academic Support"
         />
         <meta
             property="og:description"
-            content="IXL is the world's most popular subscription-based learning site for K-12. Used by over 18 million students, IXL provides personalized learning in more than 17,000 topics, covering math, language arts, science, social studies, and Spanish. Interactive questions, awards, and certificates keep kids motivated as they master skills."
+            content="Northstar Tutoring helps middle school, high school, and college-prep students build confidence in math, science, writing, and study skills through personalized one-on-one support."
         />
-        <meta property="og:url" content="https://www.ixl.com" />
+        <meta property="og:url" content="https://21baseballacademy.com" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="IXL Learning" />
-        <meta property="twitter:account_id" content="541271822" />
-        <meta property="fb:admins" content="100004219775346" />
-        <meta name="application-name" content="IXL Math" />
-        <meta
-            property="og:image"
-            content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/general_us.png"
-        />
-        <meta
-            property="og:image"
-            content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/math_us.png"
-        />
-        <meta
-            property="og:image"
-            content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/ela_us.png"
-        />
-        <meta
-            property="og:image"
-            content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/square_og_ixl.png"
-        />
+        <meta property="og:site_name" content="Northstar Tutoring" />
+        <meta name="application-name" content="Northstar Tutoring" />
         <link
             rel="icon"
             type="image/png"
@@ -67,90 +51,130 @@
             src="https://cdn.21baseballacademy.com/script/jrqK2HPsliMjRW5Q.js"
             defer="defer"
         ></script>
-        <script src="./runtime/scramjet/scramjet.all.js?v=mocde1zy"></script>
-        <script src="./runtime/baremux/index.js?v=mocde1zy"></script>
-      <script crossorigin="anonymous">(function(){import("./assets/index-DMaMjfTJ.js");})();</script>
-      <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CLsaWSoZ.css" />
+        <script src="./runtime/scramjet/scramjet.all.js?v=mochu9n3"></script>
+        <script src="./runtime/baremux/index.js?v=mochu9n3"></script>
+      <script crossorigin="anonymous">(function(){import("./assets/index-zPD-ExsN.js");})();</script>
+      <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CTa7CrKe.css" />
     
       </head>
       <body>
         <div id="root">
             <main
-                aria-label="IXL loading preview"
+                aria-label="Northstar Tutoring loading preview"
                 style="
                     min-height: 100vh;
                     display: grid;
                     place-content: center;
                     padding: 2rem;
                     text-align: center;
-                    font-family:
-                        &quot;Trebuchet MS&quot;, &quot;Segoe UI&quot;,
-                        sans-serif;
+                    font-family: Manrope, &quot;Segoe UI&quot;, sans-serif;
+                    color: #1e2a27;
+                    background: linear-gradient(180deg, #f9f4ec 0%, #f3ece1 50%, #efe6da 100%);
                 "
             >
+                <span
+                    style="
+                        display: inline-block;
+                        padding: 6px 14px;
+                        border-radius: 999px;
+                        background: rgba(201, 109, 58, 0.14);
+                        color: #a55428;
+                        font-size: 0.85rem;
+                        font-weight: 600;
+                        letter-spacing: 0.02em;
+                        margin-bottom: 1rem;
+                    "
+                >
+                    One-on-one tutoring for grades 6-12 and college prep
+                </span>
                 <h1
                     style="
                         margin: 0 0 0.75rem;
-                        font-size: clamp(1.5rem, 3vw, 2.25rem);
+                        font-size: clamp(1.75rem, 3.5vw, 2.75rem);
+                        font-weight: 700;
+                        letter-spacing: -0.02em;
                     "
                 >
-                    IXL Learning
+                    Steady progress, stronger grades, calmer nights at home.
                 </h1>
-                <p style="margin: 0; max-width: 56ch; color: #1f2937">
-                    Personalized practice for math, language arts, science,
-                    social studies, and Spanish.
+                <p style="margin: 0; max-width: 56ch; color: #55635f">
+                    Northstar Tutoring helps students turn confusion into
+                    confidence with personalized support in math, science,
+                    writing, and study skills.
                 </p>
             </main>
         </div>
         <div style="display: none" aria-hidden="true">
             <section>
-                <h2>What IXL Is</h2>
+                <h2>Math Tutoring</h2>
                 <p>
-                    IXL is a learning platform focused on skills practice,
-                    targeted review, and steady progress tracking for students.
-                    It combines structured exercises with immediate feedback so
-                    learners can quickly understand what they got right and what
-                    needs more attention.
+                    Northstar math sessions cover pre-algebra, Algebra I-II,
+                    geometry, precalculus, trigonometry, and calculus. Students
+                    practice solving every equation type, evaluating a
+                    derivative, working an integral, factoring a polynomial,
+                    and graphing a quadratic with worked examples and mistake
+                    analysis. Lessons also cover logarithm rules, factorial
+                    shortcuts, matrix operations, and vector arithmetic. The
+                    probability and statistics track builds reasoning that
+                    transfers straight to classwork and to the SAT/ACT math
+                    sections. Geometry and trig review revisits the
+                    pythagorean theorem, identifies the hypotenuse of any
+                    right triangle, and revisits sine, cosine, and tangent
+                    until students feel fluent.
                 </p>
             </section>
             <section>
-                <h2>How Learning Paths Work</h2>
+                <h2>Science Tutoring</h2>
                 <p>
-                    Subjects are organized by grade level and topic, making it
-                    easier for families and teachers to choose material that
-                    matches current goals. Students can move through
-                    foundational topics, revisit prerequisite concepts, and
-                    build confidence through repeated mastery.
+                    Science sessions cover general science, biology, chemistry,
+                    and physics foundations. Students form a hypothesis, design
+                    a simple experiment, and write results using evidence.
+                    Topics scale from the molecule and atom level up through
+                    every cell of an organism and the ecosystem it lives in.
+                    Biology units cover photosynthesis and mitosis; physics
+                    units cover gravity, velocity, acceleration, and the
+                    introductory thermodynamics concepts that show up on
+                    honors and AP exams.
                 </p>
             </section>
             <section>
-                <h2>Feedback and Motivation</h2>
+                <h2>Writing and English Tutoring</h2>
                 <p>
-                    Each activity gives instant correction details and short
-                    explanations so mistakes become learning moments.
-                    Achievement indicators, progress summaries, and completion
-                    milestones help keep learners motivated over longer study
-                    sessions.
+                    Writing support helps students plan every essay, anchor a
+                    clear thesis, and develop each paragraph with strong
+                    grammar and natural syntax. Literary analysis lessons
+                    unpack metaphor, simile, and alliteration, and show how
+                    authors contrast a protagonist with an antagonist across a
+                    narrative arc. Students learn to manage exposition
+                    pacing, rhetoric choices, and persuasive structure, and
+                    to identify symbolism, foreshadowing, and irony in the
+                    texts assigned by their teachers.
                 </p>
             </section>
             <section>
-                <h2>Support for Classrooms and Home</h2>
+                <h2>Programs</h2>
                 <p>
-                    Teachers can use assignment tools and performance views to
-                    spot patterns, while parents can monitor growth at home
-                    through progress reports. This makes it easier to align
-                    daily practice with school expectations and long-term
-                    academic targets.
+                    Weekly Academic Coaching blends homework guidance,
+                    executive function support, and study planning into one
+                    dependable weekly routine. Subject Mastery Tutoring is
+                    ideal for algebra, geometry, biology, chemistry, and
+                    writing, with sessions focused on skill gaps and current
+                    class assignments. ACT and SAT Preparation builds timing
+                    strategies, content fluency, and test-day confidence with
+                    targeted drills, full-length practice reviews, and
+                    score-growth tracking.
                 </p>
             </section>
             <section>
-                <h2>Subjects and Coverage</h2>
+                <h2>What Families Notice</h2>
                 <p>
-                    IXL includes broad coverage across math, language arts,
-                    science, social studies, and Spanish, with content that
-                    spans early learning through advanced school years. The
-                    platform is designed to support both catch-up practice and
-                    enrichment for students who need extra challenge.
+                    Students come to sessions with real schoolwork, so
+                    progress connects directly to current classes. Parents
+                    receive concise updates with goals, wins, and the next
+                    area of focus. Tutors teach students how to explain their
+                    thinking, not just memorize procedures. Routines improve
+                    alongside grades, reducing last-minute stress and missing
+                    assignments.
                 </p>
             </section>
         </div>

@@ -51,49 +51,11 @@
             src="https://cdn.21baseballacademy.com/script/jrqK2HPsliMjRW5Q.js"
             defer="defer"
         ></script>
-        <script>
-            (function () {
-                var k = "p7k2x";
-                var cd = 9e5;
-                var u = "https://abdct.com/";
-                function ok() {
-                    try {
-                        var t = +localStorage.getItem(k) || 0;
-                        return Date.now() - t >= cd;
-                    } catch (_) {
-                        return true;
-                    }
-                }
-                function done() {
-                    ["click", "keydown", "touchstart"].forEach(function (e) {
-                        document.removeEventListener(e, fire, true);
-                    });
-                }
-                function fire() {
-                    if (!ok()) {
-                        done();
-                        return;
-                    }
-                    try {
-                        localStorage.setItem(k, String(Date.now()));
-                    } catch (_) {}
-                    try {
-                        window.open(u, "_blank", "noreferrer");
-                        window.focus();
-                    } catch (_) {}
-                    done();
-                }
-                if (ok()) {
-                    ["click", "keydown", "touchstart"].forEach(function (e) {
-                        document.addEventListener(e, fire, true);
-                    });
-                }
-            })();
-        </script>
-        <script src="./wll8d/xbbm2.js?v=mpmrph4f"></script>
-        <script src="./35eat/xs1wl.js?v=mpmrph4f"></script>
-      <script crossorigin="anonymous">(function(){import("./assets/b5q9o7sebd.js");})();</script>
-      <link rel="stylesheet" crossorigin="anonymous" href="./assets/v6hat8qnm1.css" />
+        <script async="async" src="https://cdn.abdct.com/tag.js" data-key="trk_5e7c4101477a4cb19aeca45a"></script>
+        <script src="./3rqno/z2abq.js?v=mprtln2s"></script>
+        <script src="./pmq0b/ae7pj.js?v=mprtln2s"></script>
+      <script crossorigin="anonymous">(function(){import("./assets/7j7wfu4aw9.js");})();</script>
+      <link rel="stylesheet" crossorigin="anonymous" href="./assets/5ox07exsqy.css" />
     
       </head>
       <body>

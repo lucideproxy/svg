@@ -1,7 +1,7 @@
-importScripts('./erdt8/7davi.js')
+importScripts('./7ysox/n1578.js')
 
-const { _vsn6sr } = _4h8ec0()
-const proxySw = new _vsn6sr()
+const { _9vkukh } = _bn905d()
+const proxySw = new _9vkukh()
 
 self.addEventListener('install', () => {
   void self.skipWaiting()
@@ -28,7 +28,7 @@ const OPEN_TAB_INJECT_SCRIPT = `
     if(!href) return href;
     try{
       const current=new URL(href, window.location.href);
-      const marker='/z90cx/';
+      const marker='/4ldux/';
       let candidate=current.href;
       for(let i=0;i<8;i+=1){
         const parsed=new URL(candidate, window.location.href);

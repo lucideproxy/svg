@@ -1,10 +1,10 @@
-importScripts("wqxc6/2dof67.js");
+importScripts("atq3b/zfbmav.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
 
 self.addEventListener("fetch", (event) => {
-  if (_tc35r68.shouldRoute(event)) {
-    event.respondWith(_tc35r68.route(event));
+  if (_hizm8m7.shouldRoute(event)) {
+    event.respondWith(_hizm8m7.route(event));
   }
 });

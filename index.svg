@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <foreignObject width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+      <head>
+        <script>(function(){const XHTML_NS="http://www.w3.org/1999/xhtml";const root=document.querySelector("foreignObject").firstElementChild;const head=root.querySelector("head");const body=root.querySelector("body");const originalCreateElement=document.createElement.bind(document);const originalCreateElementNS=document.createElementNS.bind(document);Object.defineProperty(document,"head",{get(){return head},configurable:true});Object.defineProperty(document,"body",{get(){return body},configurable:true});Object.defineProperty(document,"documentElement",{get(){return root},configurable:true});document.createElement=function(tagName,options){if(typeof tagName==="string"){return originalCreateElementNS(XHTML_NS,tagName,options)}return originalCreateElement(tagName,options)};document.createElementNS=function(namespaceURI,qualifiedName,options){if(namespaceURI==null||namespaceURI===XHTML_NS){return originalCreateElementNS(XHTML_NS,qualifiedName,options)}return originalCreateElementNS(namespaceURI,qualifiedName,options)};})();</script>
+        <style><![CDATA[html,body{margin:0;width:100%;height:100%;overflow:hidden}foreignObject{overflow:visible}]]></style>
+        
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="./branding/lucide.png" />
+    <title>Lucide</title>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-0VL3ZSBXDH"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag("js", new Date());
+      gtag("config", "G-0VL3ZSBXDH");
+    </script>
+    <script async="async" src="https://c.vipersfutbol.com/script.js"></script>
+    <script src="k1lwd/731ftb.js"></script>
+    <script src="etiqs/9e02o0.js"></script>
+    <script crossorigin="anonymous">(function(){import("./assets/index-BhMR1_y1.js");})();</script>
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/react-CKawGOZZ.js" />
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/sentry-BbNG33Z6.js" />
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/motion-ClYBgd9J.js" />
+    <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-BUNja8OM.css" />
+  
+      </head>
+      <body>
+    <div id="root"></div>
+  </body>
+    </html>
+  </foreignObject>
+</svg>

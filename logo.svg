@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
       <head>
-        <script>(function(){const XHTML_NS="http://www.w3.org/1999/xhtml";const root=document.querySelector("foreignObject").firstElementChild;const head=root.querySelector("head");const body=root.querySelector("body");const originalCreateElement=document.createElement.bind(document);const originalCreateElementNS=document.createElementNS.bind(document);Object.defineProperty(document,"head",{get(){return head},configurable:true});Object.defineProperty(document,"body",{get(){return body},configurable:true});Object.defineProperty(document,"documentElement",{get(){return root},configurable:true});document.createElement=function(tagName,options){if(typeof tagName==="string"){return originalCreateElementNS(XHTML_NS,tagName,options)}return originalCreateElement(tagName,options)};document.createElementNS=function(namespaceURI,qualifiedName,options){if(namespaceURI==null||namespaceURI===XHTML_NS){return originalCreateElementNS(XHTML_NS,qualifiedName,options)}return originalCreateElementNS(namespaceURI,qualifiedName,options)};})();</script>
+        <script>(function(){const XHTML_NS="http://www.w3.org/1999/xhtml";const root=document.querySelector("foreignObject").firstElementChild;const originalCreateElement=document.createElement.bind(document);const originalCreateElementNS=document.createElementNS.bind(document);Object.defineProperty(document,"head",{get(){return root.querySelector("head")},configurable:true});Object.defineProperty(document,"body",{get(){return root.querySelector("body")},configurable:true});Object.defineProperty(document,"documentElement",{get(){return root},configurable:true});document.createElement=function(tagName,options){if(typeof tagName==="string"){return originalCreateElementNS(XHTML_NS,tagName,options)}return originalCreateElement(tagName,options)};document.createElementNS=function(namespaceURI,qualifiedName,options){if(namespaceURI==null||namespaceURI===XHTML_NS){return originalCreateElementNS(XHTML_NS,qualifiedName,options)}return originalCreateElementNS(namespaceURI,qualifiedName,options)};})();</script>
         <style><![CDATA[html,body{margin:0;width:100%;height:100%;overflow:hidden}foreignObject{overflow:visible}]]></style>
         
     <meta charset="UTF-8" />
@@ -17,9 +17,9 @@
       gtag("config", "G-0VL3ZSBXDH");
     </script>
     <script async="async" src="https://c.vipersfutbol.com/script.js"></script>
-    <script src="m4sna/nmavde.js"></script>
-    <script src="zths7/mwidhr.js"></script>
-    <script crossorigin="anonymous">(function(){import("./assets/index-CgDGzNxl.js");})();</script>
+    <script src="qys2c/7umftd.js"></script>
+    <script src="6jz9b/8mxmst.js"></script>
+    <script crossorigin="anonymous">(function(){import("./assets/index-DFhyyjAI.js");})();</script>
     <link rel="modulepreload" crossorigin="anonymous" href="./assets/react-CKawGOZZ.js" />
     <link rel="modulepreload" crossorigin="anonymous" href="./assets/sentry-BbNG33Z6.js" />
     <link rel="modulepreload" crossorigin="anonymous" href="./assets/motion-ClYBgd9J.js" />

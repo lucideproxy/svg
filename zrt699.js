@@ -1,10 +1,10 @@
-importScripts("y2gim/an0tkf.js");
+importScripts("davyg/4hcs5h.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
 
 self.addEventListener("fetch", (event) => {
-  if (_vukerh2.shouldRoute(event)) {
-    event.respondWith(_vukerh2.route(event));
+  if (_jzpttiy.shouldRoute(event)) {
+    event.respondWith(_jzpttiy.route(event));
   }
 });

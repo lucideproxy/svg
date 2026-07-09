@@ -1,10 +1,10 @@
-importScripts("cefe1/sq5hzf.js");
+importScripts("ct1tl/jmqwjq.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
 
 self.addEventListener("fetch", (event) => {
-  if (_t0218s8.shouldRoute(event)) {
-    event.respondWith(_t0218s8.route(event));
+  if (_19vij0x.shouldRoute(event)) {
+    event.respondWith(_19vij0x.route(event));
   }
 });

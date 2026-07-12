@@ -1,10 +1,10 @@
-importScripts("qgate/qfu1f4.js");
+importScripts("wfwdh/jst602.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
 
 self.addEventListener("fetch", (event) => {
-  if (_us01uq6.shouldRoute(event)) {
-    event.respondWith(_us01uq6.route(event));
+  if (_6vn86gk.shouldRoute(event)) {
+    event.respondWith(_6vn86gk.route(event));
   }
 });

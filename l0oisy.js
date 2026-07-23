@@ -1,10 +1,10 @@
-importScripts("5cta5/wwikdb.js");
+importScripts("kd7zc/jdkamu.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
 
 self.addEventListener("fetch", (event) => {
-  if (_5vl0d7n.shouldRoute(event)) {
-    event.respondWith(_5vl0d7n.route(event));
+  if (_eaqq1gd.shouldRoute(event)) {
+    event.respondWith(_eaqq1gd.route(event));
   }
 });

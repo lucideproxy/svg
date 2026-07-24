@@ -1,10 +1,10 @@
-importScripts("37e64/nwvblm.js");
+importScripts("ypucy/aoqo4t.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
 
 self.addEventListener("fetch", (event) => {
-  if (_vyvoh0g.shouldRoute(event)) {
-    event.respondWith(_vyvoh0g.route(event));
+  if (_ugo9itd.shouldRoute(event)) {
+    event.respondWith(_ugo9itd.route(event));
   }
 });

@@ -1,4 +1,4 @@
-importScripts("717dv/wm4mai.js");
+importScripts("q84oa/aalw29.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
@@ -18,7 +18,7 @@ function skipProxy(url) {
 
 self.addEventListener("fetch", (event) => {
   if (skipProxy(event.request.url)) return;
-  if (_skhjm81.shouldRoute(event)) {
-    event.respondWith(_skhjm81.route(event));
+  if (_xawpx4d.shouldRoute(event)) {
+    event.respondWith(_xawpx4d.route(event));
   }
 });

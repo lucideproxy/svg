@@ -1,4 +1,4 @@
-importScripts("q84oa/aalw29.js");
+importScripts("oyipv/361vks.js");
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
@@ -18,7 +18,7 @@ function skipProxy(url) {
 
 self.addEventListener("fetch", (event) => {
   if (skipProxy(event.request.url)) return;
-  if (_xawpx4d.shouldRoute(event)) {
-    event.respondWith(_xawpx4d.route(event));
+  if (_lma85nj.shouldRoute(event)) {
+    event.respondWith(_lma85nj.route(event));
   }
 });

@@ -25,7 +25,7 @@ self.__requestWorkerActivation = () => {
   return activationCheck;
 };
 
-importScripts("1yp0e/56tj5r.js");
+importScripts("d9ft5/waniim.js");
 
 self.addEventListener("install", (event) => event.waitUntil(self.__requestWorkerActivation()));
 self.addEventListener("message", (event) => {
@@ -48,7 +48,7 @@ function skipProxy(url) {
 
 self.addEventListener("fetch", (event) => {
   if (skipProxy(event.request.url)) return;
-  if (_f395dj7.shouldRoute(event)) {
-    event.respondWith(_f395dj7.route(event));
+  if (_dil18wp.shouldRoute(event)) {
+    event.respondWith(_dil18wp.route(event));
   }
 });

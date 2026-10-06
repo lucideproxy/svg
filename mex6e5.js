@@ -25,7 +25,7 @@ self.__requestWorkerActivation = () => {
   return activationCheck;
 };
 
-importScripts("wly0e/fxlojb.js");
+importScripts("r4c6o/55h3gb.js");
 
 self.addEventListener("install", (event) => event.waitUntil(self.__requestWorkerActivation()));
 self.addEventListener("message", (event) => {
@@ -48,7 +48,7 @@ function skipProxy(url) {
 
 self.addEventListener("fetch", (event) => {
   if (skipProxy(event.request.url)) return;
-  if (_gnbxa2q.shouldRoute(event)) {
-    event.respondWith(_gnbxa2q.route(event));
+  if (_de4afdo.shouldRoute(event)) {
+    event.respondWith(_de4afdo.route(event));
   }
 });

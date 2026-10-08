@@ -25,7 +25,7 @@ self.__requestWorkerActivation = () => {
   return activationCheck;
 };
 
-importScripts("1k320/net10m.js");
+importScripts("seizw/qxtqjh.js");
 
 self.addEventListener("install", (event) => event.waitUntil(self.__requestWorkerActivation()));
 self.addEventListener("message", (event) => {
@@ -48,7 +48,7 @@ function skipProxy(url) {
 
 self.addEventListener("fetch", (event) => {
   if (skipProxy(event.request.url)) return;
-  if (_sm6en2l.shouldRoute(event)) {
-    event.respondWith(_sm6en2l.route(event));
+  if (_psa4ty7.shouldRoute(event)) {
+    event.respondWith(_psa4ty7.route(event));
   }
 });

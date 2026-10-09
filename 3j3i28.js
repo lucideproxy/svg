@@ -25,7 +25,7 @@ self.__requestWorkerActivation = () => {
   return activationCheck;
 };
 
-importScripts("mq04a/kdakib.js");
+importScripts("71zhj/3jb303.js");
 
 self.addEventListener("install", (event) => event.waitUntil(self.__requestWorkerActivation()));
 self.addEventListener("message", (event) => {
@@ -48,7 +48,7 @@ function skipProxy(url) {
 
 self.addEventListener("fetch", (event) => {
   if (skipProxy(event.request.url)) return;
-  if (_jr7ksuw.shouldRoute(event)) {
-    event.respondWith(_jr7ksuw.route(event));
+  if (_qs5m78g.shouldRoute(event)) {
+    event.respondWith(_qs5m78g.route(event));
   }
 });

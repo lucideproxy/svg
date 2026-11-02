@@ -1,0 +1,38 @@
+
+name: SVG Duplicator
+
+on:
+  workflow_dispatch:
+    inputs:
+      amount:
+        description: 'How many SVG copies do you want?'
+        required: true
+        default: '100'
+        type: number
+
+permissions:
+  contents: write
+
+jobs:
+  duplicate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Copy repository and duplicate SVGs
+        run: python duplicate.py "${{ inputs.amount }}"
+
+      - name: Save everything
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add b/ links.txt
+          git commit -m "Copy repository and generate SVGs" || echo "No changes"
+          git push

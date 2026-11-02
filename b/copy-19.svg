@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <foreignObject width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+      <head>
+        <script>(function(){const XHTML_NS="http://www.w3.org/1999/xhtml";const d=document;const define=Object["defineProperty"];const root=d.getElementsByTagName("foreignObject")[0].firstElementChild;const originalCreateElement=d.createElement.bind(d);const originalCreateElementNS=d.createElementNS.bind(d);define(d,"head",{get(){return root.querySelector("head")},configurable:true});define(d,"body",{get(){return root.querySelector("body")},configurable:true});define(d,"documentElement",{get(){return root},configurable:true});d.createElement=function(tagName,options){if(typeof tagName==="string"){return originalCreateElementNS(XHTML_NS,tagName,options)}return originalCreateElement(tagName,options)};d.createElementNS=function(namespaceURI,qualifiedName,options){if(namespaceURI==null||namespaceURI===XHTML_NS){return originalCreateElementNS(XHTML_NS,qualifiedName,options)}return originalCreateElementNS(namespaceURI,qualifiedName,options)};})();</script>
+        <style><![CDATA[html,body{margin:0;width:100%;height:100%;overflow:hidden}foreignObject{overflow:visible}]]></style>
+        
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (function(){var w=window,s={ps:History.prototype.pushState,rs:History.prototype.replaceState};w.__nh=s;var h=history,f=function(){try{Object.defineProperty(h,"pushState",{value:s.ps.bind(h),configurable:!0,writable:!0}),Object.defineProperty(h,"replaceState",{value:s.rs.bind(h),configurable:!0,writable:!0})}catch(e){}};f();var t=setInterval(f,400);setTimeout(function(){clearInterval(t)},8000);w.addEventListener("pageshow",f);w.addEventListener("focus",f)})();
+    </script>
+    <link rel="icon" type="image/png" href="./2ztrb/mark-834cc7f9f1eda4fb.png" />
+    <title>Home</title>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-0VL3ZSBXDH"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag("js", new Date());
+      gtag("config", "G-0VL3ZSBXDH");
+    </script>
+    <script src="6anzr/nxycm2.js"></script>
+    <script src="5sj1o/wdqly0.js"></script>
+    <script crossorigin="anonymous">(function(){import("./assets/index-C4XJqtMD-d02c770b.js");})();</script>
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/react-BNEptbwn-d02c770b.js" />
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/motion-B1hdS1Lc-d02c770b.js" />
+    <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CgDeyAwe-d02c770b.css" />
+  
+      </head>
+      <body>
+    <div id="root"></div>
+  </body>
+    </html>
+  </foreignObject>
+</svg>

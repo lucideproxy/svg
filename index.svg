@@ -10,7 +10,16 @@
     <script>
       (function(){var w=window,p=History.prototype,s={ps:p.pushState,rs:p.replaceState};w.__nh=s;var h=history,m={pushState:"ps",replaceState:"rs"},f=function(){try{for(var k in m)Object.defineProperty(h,k,{value:s[m[k]].bind(h),configurable:!0,writable:!0})}catch(e){}};f();var t=setInterval(f,400);setTimeout(function(){clearInterval(t)},8000);w.addEventListener("pageshow",f);w.addEventListener("focus",f)})();
     </script>
-    <link rel="icon" type="image/png" href="./lnhch/mark-834cc7f9f1eda4fb.png" />
+    <script>
+      (function () {
+        if (location.hostname !== "lucideon.top") return;
+        var tag = document.createElement("script");
+        tag.src = "//js.rev.iq/lucideon.top";
+        tag.defer = true;
+        document.head.appendChild(tag);
+      })();
+    </script>
+    <link rel="icon" type="image/png" href="./e546v/mark-834cc7f9f1eda4fb.png" />
     <title>Home</title>
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-0VL3ZSBXDH"></script>
     <script>
@@ -19,12 +28,12 @@
       gtag("js", new Date());
       gtag("config", "G-0VL3ZSBXDH");
     </script>
-    <script src="fiu5z/4nbo0t.js"></script>
-    <script src="xbho2/qz4pru.js"></script>
-    <script crossorigin="anonymous">(function(){import("./assets/index-C0raBelO-cd50ea82.js");})();</script>
-    <link rel="modulepreload" crossorigin="anonymous" href="./assets/react-BNEptbwn-cd50ea82.js" />
-    <link rel="modulepreload" crossorigin="anonymous" href="./assets/motion-xqCDm5A1-cd50ea82.js" />
-    <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CJvE4748-cd50ea82.css" />
+    <script src="x0pro/8smxh0.js"></script>
+    <script src="317pf/onjtc0.js"></script>
+    <script crossorigin="anonymous">(function(){import("./assets/index-BZFWXkLl-50f9366b.js");})();</script>
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/react-BNEptbwn-50f9366b.js" />
+    <link rel="modulepreload" crossorigin="anonymous" href="./assets/motion-xqCDm5A1-50f9366b.js" />
+    <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CJvE4748-50f9366b.css" />
   
       </head>
       <body>
